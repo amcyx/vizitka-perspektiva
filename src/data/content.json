@@ -1,0 +1,92 @@
+{
+  "ru": {
+    "title": "АНО «ОТКРЫТИЕ ПЕРСПЕКТИВЫ»",
+    "nav": {
+      "about": "О нас",
+      "support": "Поддержка",
+      "mission": "Миссия",
+      "projects": "Проекты",
+      "contacts": "Контакты"
+    },
+    "sections": {
+      "about": {
+        "title": "О нас",
+        "intro": "«Перспективы» — партнёрство двух благотворительных организаций:",
+        "org1": "Московская благотворительная общественная организация «Перспективы и помощь на радость»",
+        "org2": "АНО «Новые перспективы»",
+        "mission": "Мы создаём условия для развития, труда и жизни людей с ментальными и физическими особенностями."
+      },
+      "support": {
+        "title": "Кого мы поддерживаем",
+        "item1": "людей с инвалидностью",
+        "item2": "ищущих работу",
+        "item3": "глухих и слабослышащих",
+        "item4": "всех, кому нужна поддержка"
+      },
+      "mission": {
+        "title": "Наша философия",
+        "p1": "Счастье — это не только результат, но и путь.",
+        "p2": "Каждый шаг, каждая попытка, каждое достижение важны."
+      },
+      "projects": {
+        "title": "Участие в проектах",
+        "list": [
+          { "name": "Цифровая визитка", "role": "Разработчик", "year": 2025 },
+          { "name": "Портфолио", "role": "Дизайнер", "year": 2024 }
+        ]
+      },
+      "contacts": {
+        "title": "Контакты",
+        "name": "Название:",
+        "phone": "Телефон:",
+        "site": "Сайт:",
+        "address": "Адрес:"
+      }
+    }
+  },
+  "en": {
+    "title": "ANO 'DISCOVERY OF OPPORTUNITIES'",
+    "nav": {
+      "about": "About",
+      "support": "Support",
+      "mission": "Mission",
+      "projects": "Projects",
+      "contacts": "Contacts"
+    },
+    "sections": {
+      "about": {
+        "title": "About Us",
+        "intro": "‘Perspektivy’ is a partnership between two charitable organizations:",
+        "org1": "Moscow charitable organization 'Help and Joy'",
+        "org2": "ANO 'New Opportunities'",
+        "mission": "We create conditions for development, work, and life for people with mental and physical disabilities."
+      },
+      "support": {
+        "title": "Who We Support",
+        "item1": "people with disabilities",
+        "item2": "job seekers",
+        "item3": "deaf and hard of hearing",
+        "item4": "anyone in need of support"
+      },
+      "mission": {
+        "title": "Our Philosophy",
+        "p1": "Happiness is not just a result, but a journey.",
+        "p2": "Every step, every attempt, every achievement matters."
+      },
+      "projects": {
+        "title": "Project Participation",
+        "list": [
+          { "name": "Digital Card", "role": "Developer", "year": 2025 },
+          { "name": "Portfolio", "role": "Designer", "year": 2024 }
+        ]
+      },
+      "contacts": {
+        "title": "Contacts",
+        "name": "Name:",
+        "phone": "Phone:",
+        "site": "Website:",
+        "address": "Address:"
+      }
+    }
+  }
+}
